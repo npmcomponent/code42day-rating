@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [code42day/rating](http://github.com/code42day/rating). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/code42day-rating`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 
 # rating
 

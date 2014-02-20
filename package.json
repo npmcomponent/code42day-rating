@@ -1,0 +1,11 @@
+{
+  "name": "code42day-rating",
+  "description": "Display stars based on numeric rating (read-only)",
+  "version": "1.0.0",
+  "keywords": [],
+  "styles": [
+    "rating.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
